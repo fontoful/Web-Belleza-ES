@@ -1,0 +1,20 @@
+{
+	"name": "web-belleza-ES",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fontoful/Web-Belleza-ES.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/fontoful/Web-Belleza-ES/issues"
+	},
+	"homepage": "https://github.com/fontoful/Web-Belleza-ES#readme"
+}
