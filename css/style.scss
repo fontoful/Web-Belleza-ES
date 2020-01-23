@@ -1,5 +1,48 @@
+@import "../node_modules/@glidejs/glide/src/assets/sass/glide.core.scss";
+
+$main-color: #1f2f50;
+$white-color: #ffffff;
+$strong-gradient: #a57d24;
+$weak-gradient: #f1dd80;
+
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+
+img {
+	width: 100%;
+}
+
+/* General Settings */
+
+body {
+	height: 100%;
+	font-size: 16px;
+	line-height: 1.6;
+	background-image: url(../images/FondoGeneral.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	overflow: hidden;
+	color: $white-color;
+}
+
+.container {
+	margin: auto;
+	height: 100vh;
+	width: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 15px;
 }

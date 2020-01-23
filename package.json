@@ -16,5 +16,8 @@
 	"bugs": {
 		"url": "https://github.com/fontoful/Web-Belleza-ES/issues"
 	},
-	"homepage": "https://github.com/fontoful/Web-Belleza-ES#readme"
+	"homepage": "https://github.com/fontoful/Web-Belleza-ES#readme",
+	"dependencies": {
+		"@glidejs/glide": "^3.4.1"
+	}
 }
